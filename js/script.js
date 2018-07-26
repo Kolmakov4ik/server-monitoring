@@ -2,19 +2,19 @@
 var urls = 
     [
         {
-            serverName: 'YEEE BOI',
+            serverName: 'server name#1',
             url: 'http://localhost:4000/health/0'
         }, 
         {
-            serverName: '\_(-_-)_/',
+            serverName: 'server name#2',
             url: 'http://localhost:4000/health/1'
         },
         {
-            serverName: 'LOL :D',
+            serverName: 'server name#3',
             url: 'http://localhost:4000/health/2'
         },
         {
-            serverName: 'LOL fsfsda:D',
+            serverName: 'server name#4',
             url: 'http://localhost:4001/health/2'
         }
     ]
